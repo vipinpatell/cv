@@ -56,6 +56,7 @@ export default function Home() {
         "GraphQL",
         "mongoDB",
         "MySQL",
+        "JSON Web Token (JWT)",
         "Jest",
         "Storybook",
         "React Testing Library",
