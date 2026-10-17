@@ -54,6 +54,8 @@ export default function Home() {
         "Context API",
         "REST API",
         "GraphQL",
+        "mongoDB",
+        "MySQL",
         "Jest",
         "Storybook",
         "React Testing Library",
